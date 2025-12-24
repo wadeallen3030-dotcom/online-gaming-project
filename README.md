@@ -1,4 +1,4 @@
-# online gaming project
+# Online gaming behavior analysis project
 
 This is a practice project I made with the dataset "Predict Online Gaming Behavior Dataset" downloaded from Kaggle. I also used Chatgpt to generate some real-world questions to enhance the overall practice purpose. The questions can be categorized into the followings:
 
